@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532781e33fc377b4ca161291b82062a7, type: 3}
+  m_Name: fx_bubbles
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.DeathEffect
+  id: fx_bubbles
+  displayName: Bubble Pop
+  price: 0
+  bundleId: bundle_ocean
+  icon: {fileID: 21300000, guid: c1ded401910a51e4dbd03ffcc7c226d8, type: 3}
+  style: 1
+  particles:
+  - {fileID: 21300000, guid: 7cfe95851c5345d48945ba3471453ff3, type: 3}
+  palette:
+  - {r: 0.9019608, g: 0.9843137, b: 1, a: 1}
+  - {r: 0.56078434, g: 0.8901961, b: 1, a: 1}
+  - {r: 0.36078432, g: 0.78431374, b: 0.9411765, a: 1}

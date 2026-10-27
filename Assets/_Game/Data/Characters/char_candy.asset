@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_candy
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_candy
+  displayName: Candy Kid
+  price: 0
+  bundleId: bundle_candy
+  idle:
+  - {fileID: 21300000, guid: 6109f723c3c2b8c4293f24f1ee7a16f9, type: 3}
+  - {fileID: 21300000, guid: 91e48fc48a4843947a7ac0d9f5768e3f, type: 3}
+  run:
+  - {fileID: 21300000, guid: 8ef415da05d97fa4c85173e510eb2d96, type: 3}
+  - {fileID: 21300000, guid: 9b96e9df09eb7e44aa2590b2cd989d27, type: 3}
+  - {fileID: 21300000, guid: e601838facb91624f818fd94cb26b44e, type: 3}
+  - {fileID: 21300000, guid: 2e2f1fc792762284a99c0039e7e4abb1, type: 3}
+  jump: {fileID: 21300000, guid: 78828441d4ebc95458333119693c43fa, type: 3}
+  fall: {fileID: 21300000, guid: a82119a5967af7d43ab62045694e25b8, type: 3}
+  hit: {fileID: 21300000, guid: ae49c3408ed3fd64d983021833d53b37, type: 3}
+  portrait: {fileID: 21300000, guid: af8690903c4380c4598e74a5f37a09cd, type: 3}

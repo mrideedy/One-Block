@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_space
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_space
+  displayName: Space
+  price: 5000
+  bundleId: 
+  thumbnail: {fileID: 21300000, guid: b3ab2c7d9e7fe91459e19713652db90f, type: 3}
+  tileTop: {fileID: 21300000, guid: b126871991b646243b618c545069b924, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: 52f153590563e1b43a833186529e2342, type: 3}
+  tileTopRight: {fileID: 21300000, guid: 8b791f41cf45711498b866233943d5e7, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: efcf25f399163934c99c42ea80fed456, type: 3}
+  tileFill: {fileID: 21300000, guid: 8c444af78fd2336408bb4669688db508, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: 5029cb81ca560c447ba7c51b1cb40a69, type: 3}
+  tileFillRight: {fileID: 21300000, guid: 1554af3730b2fe4458f3e897ee15234e, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: f7f8a8baa05464e4491a1dd56675ce61, type: 3}
+  sky: {fileID: 21300000, guid: bdecb0dec4530a4478f19fba3da0e21a, type: 3}
+  mountainsFar: {fileID: 21300000, guid: 37bcab9018e186d43bdc734722c94e76, type: 3}
+  mountainsNear: {fileID: 21300000, guid: df39127c2ab46444d88d379450f0f73f, type: 3}
+  hills: {fileID: 21300000, guid: 7c830d492c9210f4da63a520983bdc7f, type: 3}
+  hillsFill: {r: 0.32439217, g: 0.28988236, b: 0.4624314, a: 1}
+  cameraBackground: {r: 0.23529412, g: 0.13333334, b: 0.4392157, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: 880dc6516b9933f4db16c8c740cff28d, type: 3}
+  - {fileID: 21300000, guid: 6d86ae8da359a3e4eba899c1c6a8f550, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: 1ee6564838f65554d90c613cb4bd7d19, type: 3}
+  - {fileID: 21300000, guid: c56d9e1e9929fe24595b2efd108e2668, type: 3}
+  - {fileID: 21300000, guid: 7fcfd7bfc82458948ac5174eece10b75, type: 3}
+  hazardName: crystals
+  enemyFrames:
+  - {fileID: 21300000, guid: 92652a5e3bbd0be489c524b03729e975, type: 3}
+  - {fileID: 21300000, guid: c6dedd4a097928848a260fadc6fdac58, type: 3}
+  enemyStyle: Alien
+  trees:
+  - {fileID: 21300000, guid: 7ca3ce360371e974e89838b258b7a190, type: 3}
+  - {fileID: 21300000, guid: 81d935eae89db304686fb298067907ea, type: 3}
+  bush: {fileID: 21300000, guid: bea2436ec068ca2479de86f9eb524129, type: 3}
+  tuft: {fileID: 21300000, guid: c6f85eee8d937ea40bd9931f340f0819, type: 3}

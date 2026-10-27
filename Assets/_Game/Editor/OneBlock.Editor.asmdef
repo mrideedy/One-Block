@@ -1,0 +1,23 @@
+{
+    "name": "OneBlock.Editor",
+    "rootNamespace": "OneBlock.EditorTools",
+    "references": [
+        "OneBlock",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor",
+        "UnityEngine.UI",
+        "Unity.Recorder.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

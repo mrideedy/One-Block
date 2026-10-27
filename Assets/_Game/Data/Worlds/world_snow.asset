@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_snow
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_snow
+  displayName: Snow
+  price: 2000
+  bundleId: 
+  thumbnail: {fileID: 21300000, guid: bd982cbd0bf318d4ca43a28d5fdc6c63, type: 3}
+  tileTop: {fileID: 21300000, guid: 9702c183fcedd56479866577a2f21f43, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: 6f8a6695047f0054c929a69b2f617033, type: 3}
+  tileTopRight: {fileID: 21300000, guid: 71ada56185b8a23449849184599f0294, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: 4e66eb34ad615024e9622486c2b179c0, type: 3}
+  tileFill: {fileID: 21300000, guid: eae22db22d62efc4f85437cbd9c7b20c, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: 61b3c42cded387747b38c9b037983b4c, type: 3}
+  tileFillRight: {fileID: 21300000, guid: 05e646d91f5f8034b87b89c0488d629e, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: e0f5a226c9959a7489efaef7c5973b82, type: 3}
+  sky: {fileID: 21300000, guid: 88c1bad0f38a85d4baed2839572b5f2e, type: 3}
+  mountainsFar: {fileID: 21300000, guid: dba097fc9987faa4293d04cffc9fd15b, type: 3}
+  mountainsNear: {fileID: 21300000, guid: 183c4ab5613df014d9bc69d458e09a07, type: 3}
+  hills: {fileID: 21300000, guid: 00f2c412f1bc26745bf441d717abfb50, type: 3}
+  hillsFill: {r: 0.73850983, g: 0.7937255, b: 0.8454902, a: 1}
+  cameraBackground: {r: 0.9019608, g: 0.9490196, b: 0.9843137, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: 48975890efc22b8459963a3ea0e5f419, type: 3}
+  - {fileID: 21300000, guid: 990d466ffaf88ac468e2d33b50061023, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: fa38d5565f41b924dbe3db59a8605cb7, type: 3}
+  - {fileID: 21300000, guid: f7836669d270d1a44a2b9a3575b19eb4, type: 3}
+  - {fileID: 21300000, guid: faccdd91434cf3c4e822d220a4e30866, type: 3}
+  hazardName: ice spikes
+  enemyFrames:
+  - {fileID: 21300000, guid: cdb9e6bd322206d469bf6d08b5bbda16, type: 3}
+  - {fileID: 21300000, guid: 2007e022dd31ea842b0f84c34b761f7f, type: 3}
+  enemyStyle: Penguin
+  trees:
+  - {fileID: 21300000, guid: d2074fd29dc551a428e0c10ea410e06b, type: 3}
+  - {fileID: 21300000, guid: c1f4fbde7bb7b4a43a69849acff554a1, type: 3}
+  bush: {fileID: 21300000, guid: 3cc74d9255133dd4eaa3bc0c8ace3eff, type: 3}
+  tuft: {fileID: 21300000, guid: 69ae44398dd85dd40a29b2a52d307bf6, type: 3}

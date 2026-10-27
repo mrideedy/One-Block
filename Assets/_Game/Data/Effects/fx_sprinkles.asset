@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532781e33fc377b4ca161291b82062a7, type: 3}
+  m_Name: fx_sprinkles
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.DeathEffect
+  id: fx_sprinkles
+  displayName: Sprinkle Burst
+  price: 0
+  bundleId: bundle_candy
+  icon: {fileID: 21300000, guid: feb5a36dc8c5e454cab0e833b5ebad5e, type: 3}
+  style: 3
+  particles:
+  - {fileID: 21300000, guid: 1f3f7c71cedf3cb47ae58501a807ec4d, type: 3}
+  palette:
+  - {r: 1, g: 0.43529412, b: 0.68235296, a: 1}
+  - {r: 0.49803922, g: 0.8901961, b: 0.8156863, a: 1}
+  - {r: 1, g: 0.8235294, b: 0.24705882, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.5411765, g: 0.42352942, b: 1, a: 1}

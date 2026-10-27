@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 359c662af9cccdb41bf0b13e3950e014, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.GameAssets
+  defaultCharacter: {fileID: 11400000, guid: 662705a1712a3c34e9f900c5ca7d5967, type: 2}
+  defaultBlock: {fileID: 11400000, guid: 4c7433dc07eabf845aa5ec1c460dada3, type: 2}
+  defaultWorld: {fileID: 11400000, guid: 94f98894f97ff26468a9afc76a411055, type: 2}
+  blockPreview: {fileID: 21300000, guid: 89aabdf351d3d814a83b811dd14e399a, type: 3}
+  blockPreviewBlocked: {fileID: 21300000, guid: 9c704bf65c794d945b41ebef894b0365, type: 3}
+  spikes: {fileID: 21300000, guid: 2e4d8f501457f6040afd431c8a763c44, type: 3}
+  flag: {fileID: 21300000, guid: ad451d79e62a2e24c948a86409fc43b2, type: 3}
+  coinFrames:
+  - {fileID: 21300000, guid: a27eaffb1f398a741a52258aef8c8084, type: 3}
+  - {fileID: 21300000, guid: e4d3e6064ced8b14e908c64cf40087f9, type: 3}
+  - {fileID: 21300000, guid: 7562ef7e859094741b180b07c3a75648, type: 3}
+  - {fileID: 21300000, guid: 1513b740178d4294b91b522c515c40db, type: 3}
+  blockPack: {fileID: 21300000, guid: b0b569f52bc9b7d44a4f9799304da987, type: 3}
+  whitePixel: {fileID: 21300000, guid: 6f6cd5b96bfc70243ad9b859a47a57d2, type: 3}

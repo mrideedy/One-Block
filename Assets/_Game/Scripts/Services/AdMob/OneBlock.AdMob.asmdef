@@ -1,0 +1,24 @@
+{
+    "name": "OneBlock.AdMob",
+    "rootNamespace": "OneBlock.Services",
+    "references": [
+        "OneBlock"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ONEBLOCK_ADMOB"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.google.ads.mobile",
+            "expression": "9.0.0",
+            "define": "ONEBLOCK_ADMOB"
+        }
+    ],
+    "noEngineReferences": false
+}

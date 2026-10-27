@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_candy
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_candy
+  displayName: Candy Land
+  price: 0
+  bundleId: bundle_candy
+  thumbnail: {fileID: 21300000, guid: 30e712ae899950346a699d58cecde7a6, type: 3}
+  tileTop: {fileID: 21300000, guid: 2a8cb2b87480295448afbfe5f302a2f4, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: fd223c8a30a15f04aa7672abc35ef436, type: 3}
+  tileTopRight: {fileID: 21300000, guid: 3e2914750f90ced41983bff0f39e1ebe, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: 64eea92a9faeaff449cb55aa33f05929, type: 3}
+  tileFill: {fileID: 21300000, guid: a6a1b15d169647f419127f12cbf3200d, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: 5c63b9d28ceda8941a677593c4a5820f, type: 3}
+  tileFillRight: {fileID: 21300000, guid: 4b87fbbe4e77be741bf90cf133d407af, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: ac19e57d37c27574899fb3c089b9af06, type: 3}
+  sky: {fileID: 21300000, guid: b958fd47838329d49976bfa19cb012ff, type: 3}
+  mountainsFar: {fileID: 21300000, guid: 5a50eab0a18c2204ea4bac3cabe9f9e2, type: 3}
+  mountainsNear: {fileID: 21300000, guid: d8ec6530f23ce394d989908a1b1eda16, type: 3}
+  hills: {fileID: 21300000, guid: 5e18511e313de044394dc90f0bd2e4f7, type: 3}
+  hillsFill: {r: 0.88, g: 0.6073726, b: 0.7247059, a: 1}
+  cameraBackground: {r: 1, g: 0.91764706, b: 0.9607843, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: 720cd90f70edf524aba4d46a8523580d, type: 3}
+  - {fileID: 21300000, guid: cfd7504ac52dda6479a2e8a582eea195, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: 000c08c33400d3d4993b85c55a956b9f, type: 3}
+  - {fileID: 21300000, guid: bf4158b858726de4e8a6eb92cc34e528, type: 3}
+  - {fileID: 21300000, guid: e89981d207ced7444890097b4599f4ca, type: 3}
+  hazardName: candy spikes
+  enemyFrames:
+  - {fileID: 21300000, guid: 1e572e1f38befb34fa09f94cd4c17ed2, type: 3}
+  - {fileID: 21300000, guid: 58f862442f0ddb542b2c6a07e32ff074, type: 3}
+  enemyStyle: GummyBear
+  trees:
+  - {fileID: 21300000, guid: df18ea698e7f3ef4eb37ef39ce780cac, type: 3}
+  - {fileID: 21300000, guid: 3749604eac062df4abfc3e80b2eb35b6, type: 3}
+  bush: {fileID: 21300000, guid: 4e9a27d73023936458c3fc4a12dc1eb6, type: 3}
+  tuft: {fileID: 21300000, guid: b29b9c193f95408459f2938c8159edd2, type: 3}

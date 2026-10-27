@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_astronaut
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_astronaut
+  displayName: Astronaut
+  price: 1200
+  bundleId: 
+  idle:
+  - {fileID: 21300000, guid: 7c41187726675484a9054dd349ab1bd1, type: 3}
+  - {fileID: 21300000, guid: 1c09db2a9848bfb4aa1a585bd9b3196e, type: 3}
+  run:
+  - {fileID: 21300000, guid: 246e62ee20034f54db60f2cc4423e57d, type: 3}
+  - {fileID: 21300000, guid: 4aafda62d49659e42acd0b12a8f723a4, type: 3}
+  - {fileID: 21300000, guid: 9d73540b5d13cc8409b6c5798d081a77, type: 3}
+  - {fileID: 21300000, guid: 3716534302103674db2ce05b0015f71f, type: 3}
+  jump: {fileID: 21300000, guid: b2b3e2d687f45644989de24ede24ac7a, type: 3}
+  fall: {fileID: 21300000, guid: 0fe30912e099bd7428fb0c0bfb01e4b4, type: 3}
+  hit: {fileID: 21300000, guid: 4ead975e85fe04243b77155abde69725, type: 3}
+  portrait: {fileID: 21300000, guid: 0923fec7a9aef8d4890e130eb3c66d1e, type: 3}

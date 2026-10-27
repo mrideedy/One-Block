@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_diver
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_diver
+  displayName: Diver
+  price: 0
+  bundleId: bundle_ocean
+  idle:
+  - {fileID: 21300000, guid: fa5bae83162515649a1355871dba326d, type: 3}
+  - {fileID: 21300000, guid: b377914f8378b8e48b341616f1f9616a, type: 3}
+  run:
+  - {fileID: 21300000, guid: 076280cd0297b584eb1e173ffdeec15d, type: 3}
+  - {fileID: 21300000, guid: 88adb894c65ac3d4d90a8f48d9300970, type: 3}
+  - {fileID: 21300000, guid: 5efc884b42e9a6a4380593ddee0329fb, type: 3}
+  - {fileID: 21300000, guid: 677d23ced546a0d46b4e272f27961f17, type: 3}
+  jump: {fileID: 21300000, guid: 1e044442949e6e1418f97df34fbdf191, type: 3}
+  fall: {fileID: 21300000, guid: e425beb8f343cef488f36e07e6c28d4c, type: 3}
+  hit: {fileID: 21300000, guid: 6f93fd17c7531114cb38dabd39248031, type: 3}
+  portrait: {fileID: 21300000, guid: d4d438cc0c4091a45b4043ffad4bd168, type: 3}

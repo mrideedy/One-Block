@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15fd985dfd306a64f970cf550b2b6356, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: OneBlock::OneBlock.Core.GameConfig
+  metresPerCell: 1
+  orthographicSize: 5.5
+  minVisibleWidth: 16
+  playerScreenX: 0.28
+  groundScreenY: 0.3
+  cameraVerticalSmoothing: 0.22
+  startSpeed: 4.5
+  maxSpeed: 8
+  speedPerHundredMetres: 0.35
+  gravity: 55
+  maxFallSpeed: 22
+  hopVelocity: 12.5
+  playerHalfWidth: 0.28
+  playerHeight: 0.95
+  killDepth: 5
+  deathDelay: 1.1
+  startingBlocks: 10
+  buildLookahead: 2
+  rescueDepth: 0.75
+  tapBufferTime: 0.15
+  blocksPerPack: 3
+  reserveStart: 4
+  reserveLate: 1
+  reserveRampMetres: 900
+  scarcityStartMetres: 1200
+  scarcityFullMetres: 3000
+  maxPackSkipChance: 0.4
+  coinsPerSquash: 3
+  challengeStartingBlocks: 3
+  challengeBlockEveryMetres: 100
+  targetFrameRate: 60
+  maxDeltaTime: 0.033333335

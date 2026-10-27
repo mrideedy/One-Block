@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bf1e9ec3bdeecc4dab6ae412a5463cf, type: 3}
+  m_Name: block_candy
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.BlockSkin
+  id: block_candy
+  displayName: Candy
+  price: 0
+  bundleId: bundle_candy
+  sprite: {fileID: 21300000, guid: e964938730e052e42ac993f1e4944393, type: 3}

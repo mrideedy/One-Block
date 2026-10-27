@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_neon
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_neon
+  displayName: Neon City
+  price: 0
+  bundleId: bundle_neon
+  thumbnail: {fileID: 21300000, guid: 34ee2d5c137d42949a2746739b9eaf02, type: 3}
+  tileTop: {fileID: 21300000, guid: 65da26e21a88a5c408f3094769344d74, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: c0c39b09d9423124c96b0a37b08094b7, type: 3}
+  tileTopRight: {fileID: 21300000, guid: 94463b791cda3c348a4898292cab4a14, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: 1d53aa365aba456459608df47050090c, type: 3}
+  tileFill: {fileID: 21300000, guid: f22097442cc51584fad1fd2879f4b9ba, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: c11398fc252335e4b95e0775d1afac57, type: 3}
+  tileFillRight: {fileID: 21300000, guid: f6384789f746c0641a1cbc303ac002a7, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: 64b98add7f2624540954d8b63686b15e, type: 3}
+  sky: {fileID: 21300000, guid: 2dc693b594c131d49aff01c04ea00534, type: 3}
+  mountainsFar: {fileID: 21300000, guid: cc2a8178340c622459bb32f7d332cccd, type: 3}
+  mountainsNear: {fileID: 21300000, guid: 09f664d43fd23e74099d35afb597a9fc, type: 3}
+  hills: {fileID: 21300000, guid: 21454e4859816124389698147ba0d646, type: 3}
+  hillsFill: {r: 0.06901961, g: 0.048313726, b: 0.14494118, a: 1}
+  cameraBackground: {r: 0.23137255, g: 0.0627451, b: 0.36862746, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: d4df5d0f290f35f4a954cf5a85c2f5f0, type: 3}
+  - {fileID: 21300000, guid: cbbd072b53041ad41acbc63ea4a3b04b, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: cba9ac857778efc4a847e5c35bad2e47, type: 3}
+  - {fileID: 21300000, guid: 0b10f59382f740048bb3d114752fa04b, type: 3}
+  - {fileID: 21300000, guid: 7140aab37c14f2e448261b6d6c1a1394, type: 3}
+  hazardName: zapper
+  enemyFrames:
+  - {fileID: 21300000, guid: f3b05905333b10e42b358da6c75efc0f, type: 3}
+  - {fileID: 21300000, guid: 8b7b9178c53880f4cb933d6c9ff58035, type: 3}
+  enemyStyle: Drone
+  trees:
+  - {fileID: 21300000, guid: 1e335e19bd0fc654aba3aa1bb20e7d6a, type: 3}
+  - {fileID: 21300000, guid: ffb8a0b8f7176504c97731cdf7258db8, type: 3}
+  bush: {fileID: 21300000, guid: f42c157a0402c0d49901e459fb127b7c, type: 3}
+  tuft: {fileID: 21300000, guid: 8ae633c037ef337419cc5bc4a0fd617f, type: 3}

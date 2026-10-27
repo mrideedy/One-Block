@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_ninja
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_ninja
+  displayName: Ninja
+  price: 750
+  bundleId: 
+  idle:
+  - {fileID: 21300000, guid: cd61d4abc7fd1494fbe1eb6ccad3c18b, type: 3}
+  - {fileID: 21300000, guid: 29bf902e1095dfb4aa4c60be17217584, type: 3}
+  run:
+  - {fileID: 21300000, guid: 21532a4bfe29a854090b7aa6b8982fdd, type: 3}
+  - {fileID: 21300000, guid: 1259c9310c495d748a4897248880d66a, type: 3}
+  - {fileID: 21300000, guid: ecf628fdb0f76754eb7612e7d3dc7668, type: 3}
+  - {fileID: 21300000, guid: d0d620391ea942b46846544125afef74, type: 3}
+  jump: {fileID: 21300000, guid: 39a90d21bf6589c40a31dad1ba98448a, type: 3}
+  fall: {fileID: 21300000, guid: 78d3b9076ed5c724d9c2c0efc7ef0192, type: 3}
+  hit: {fileID: 21300000, guid: d3afbf6d7a7f6134bb5ebff15e9c41e1, type: 3}
+  portrait: {fileID: 21300000, guid: d100531751cdb094cbbdf96e126d9a04, type: 3}

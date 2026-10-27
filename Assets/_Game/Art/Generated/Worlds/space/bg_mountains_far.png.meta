@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 37bcab9018e186d43bdc734722c94e76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3452323493188730014
+    second: bg_mountains_far_0
+  - first:
+      213: 5150183803781293459
+    second: bg_mountains_far_1
+  - first:
+      213: -3553627385308391076
+    second: bg_mountains_far_2
+  - first:
+      213: 2519067398633752936
+    second: bg_mountains_far_3
+  - first:
+      213: -4727792535157937593
+    second: bg_mountains_far_4
+  - first:
+      213: -3713759784366347105
+    second: bg_mountains_far_5
+  - first:
+      213: 6285549959599041709
+    second: bg_mountains_far_6
+  - first:
+      213: -466862842891132481
+    second: bg_mountains_far_7
+  - first:
+      213: -307275124279724487
+    second: bg_mountains_far_8
+  - first:
+      213: -145393744053839255
+    second: bg_mountains_far_9
+  - first:
+      213: -2956795365021651613
+    second: bg_mountains_far_10
+  - first:
+      213: -7064674404888704807
+    second: bg_mountains_far_11
+  - first:
+      213: -2538400437726097586
+    second: bg_mountains_far_12
+  - first:
+      213: -7873419543261542170
+    second: bg_mountains_far_13
+  - first:
+      213: -3243674991215026054
+    second: bg_mountains_far_14
+  - first:
+      213: -3685635269772989746
+    second: bg_mountains_far_15
+  - first:
+      213: -697329046975125064
+    second: bg_mountains_far_16
+  - first:
+      213: -9042301068136392855
+    second: bg_mountains_far_17
+  - first:
+      213: 7658174864051548193
+    second: bg_mountains_far_18
+  - first:
+      213: -4012217437867976184
+    second: bg_mountains_far_19
+  - first:
+      213: -7876360030371203249
+    second: bg_mountains_far_20
+  - first:
+      213: -3623061492742736130
+    second: bg_mountains_far_21
+  - first:
+      213: -474446836213332994
+    second: bg_mountains_far_22
+  - first:
+      213: 3023679357873443714
+    second: bg_mountains_far_23
+  - first:
+      213: 7464136460678721673
+    second: bg_mountains_far_24
+  - first:
+      213: -1389646747811370964
+    second: bg_mountains_far_25
+  - first:
+      213: 6402712971037245614
+    second: bg_mountains_far_26
+  - first:
+      213: 8122355721113768460
+    second: bg_mountains_far_27
+  - first:
+      213: -2624426145104143261
+    second: bg_mountains_far_28
+  - first:
+      213: -2164383871662164634
+    second: bg_mountains_far_29
+  - first:
+      213: 7413239040303758255
+    second: bg_mountains_far_30
+  - first:
+      213: 1231732119182985557
+    second: bg_mountains_far_31
+  - first:
+      213: 6412328803439354862
+    second: bg_mountains_far_32
+  - first:
+      213: -82693382546669000
+    second: bg_mountains_far_33
+  - first:
+      213: 6515629076220127295
+    second: bg_mountains_far_34
+  - first:
+      213: 848171016554133385
+    second: bg_mountains_far_35
+  - first:
+      213: 8370379331383714651
+    second: bg_mountains_far_36
+  - first:
+      213: -8062399404758974312
+    second: bg_mountains_far_37
+  - first:
+      213: -5697624235145200637
+    second: bg_mountains_far_38
+  - first:
+      213: -6162575771117855195
+    second: bg_mountains_far_39
+  - first:
+      213: -4220877824864611730
+    second: bg_mountains_far_40
+  - first:
+      213: 9160426650348878342
+    second: bg_mountains_far_41
+  - first:
+      213: 114147646347359257
+    second: bg_mountains_far_42
+  - first:
+      213: 2036504135177050666
+    second: bg_mountains_far_43
+  - first:
+      213: 1330278886125004458
+    second: bg_mountains_far_44
+  - first:
+      213: -5005235859838209515
+    second: bg_mountains_far_45
+  - first:
+      213: 887937460747958559
+    second: bg_mountains_far_46
+  - first:
+      213: 6427230255018618499
+    second: bg_mountains_far_47
+  - first:
+      213: 2759458501021723167
+    second: bg_mountains_far_48
+  - first:
+      213: 231947378539358450
+    second: bg_mountains_far_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_mountains_far_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 346
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26300caf212e610d0800000000000000
+      internalID: -3452323493188730014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395aa58f1e0297740800000000000000
+      internalID: 5150183803781293459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59d79298bafeaec0800000000000000
+      internalID: -3553627385308391076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86905d4d37685f220800000000000000
+      internalID: 2519067398633752936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 167
+        width: 281
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aea2afcb1836eb0800000000000000
+      internalID: -4727792535157937593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_5
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 333
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c66b70723167cc0800000000000000
+      internalID: -3713759784366347105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2fdfc262ca3750800000000000000
+      internalID: 6285549959599041709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb125aac7be5589f0800000000000000
+      internalID: -466862842891132481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9363ef807e65cbbf0800000000000000
+      internalID: -307275124279724487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 309
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5b1df8257bfdf0800000000000000
+      internalID: -145393744053839255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dec52084a57f6d0800000000000000
+      internalID: -2956795365021651613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 259
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d880da1f0c35fd90800000000000000
+      internalID: -7064674404888704807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 308
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc3ab304ac5ccd0800000000000000
+      internalID: -2538400437726097586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8074cf3aefbb290800000000000000
+      internalID: -7873419543261542170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_14
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 302
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706fcdf7c62cf2d0800000000000000
+      internalID: -3243674991215026054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 292
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa78ddf3ef9dcc0800000000000000
+      internalID: -3685635269772989746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 276
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96c772de69256f0800000000000000
+      internalID: -697329046975125064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9675891361b438280800000000000000
+      internalID: -9042301068136392855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_18
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1203e9fc67d474a60800000000000000
+      internalID: 7658174864051548193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 228
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a50467f7db158c0800000000000000
+      internalID: -4012217437867976184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_20
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 206
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b3aa784c81b290800000000000000
+      internalID: -7876360030371203249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 226
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef63ca5a4cc48bdc0800000000000000
+      internalID: -3623061492742736130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef342bebd1d6a69f0800000000000000
+      internalID: -474446836213332994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 163
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835ab81b5446f920800000000000000
+      internalID: 3023679357873443714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980fbc57090f59760800000000000000
+      internalID: 7464136460678721673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282d6145abf6bce0800000000000000
+      internalID: -1389646747811370964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_26
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0067d26810bd850800000000000000
+      internalID: 6402712971037245614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_27
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0219588e7768b070800000000000000
+      internalID: 8122355721113768460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_28
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd1d9635a249bd0800000000000000
+      internalID: -2624426145104143261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_29
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 135
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665fdfb065096f1e0800000000000000
+      internalID: -2164383871662164634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_30
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 160
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabfc5051ad11e660800000000000000
+      internalID: 7413239040303758255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 159
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559475e16ddf71110800000000000000
+      internalID: 1231732119182985557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32200a21b2df850800000000000000
+      internalID: 6412328803439354862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c7048ec63adef0800000000000000
+      internalID: -82693382546669000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_34
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 151
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ae40af1a2c6a50800000000000000
+      internalID: 6515629076220127295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987bd76bb0f45cb00800000000000000
+      internalID: 848171016554133385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 61
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53e56a57af892470800000000000000
+      internalID: 8370379331383714651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 57
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8904502357a9c1090800000000000000
+      internalID: -8062399404758974312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c738802f8fde0b0800000000000000
+      internalID: -5697624235145200637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5715acf12a7aa0800000000000000
+      internalID: -6162575771117855195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_40
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 62
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e621f904bfd6c65c0800000000000000
+      internalID: -4220877824864611730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60af015218f502f70800000000000000
+      internalID: 9160426650348878342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143b78fda8859100800000000000000
+      internalID: 114147646347359257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 133
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a97d898bd134c10800000000000000
+      internalID: 2036504135177050666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_44
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6eeab4999167210800000000000000
+      internalID: 1330278886125004458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512fb4d1184d98ab0800000000000000
+      internalID: -5005235859838209515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_46
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f4a28a66925c00800000000000000
+      internalID: 887937460747958559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_47
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e27003ddb123950800000000000000
+      internalID: 6427230255018618499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_48
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae4dde2e09b4620800000000000000
+      internalID: 2759458501021723167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_mountains_far_49
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 63
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8eb6079ea083300800000000000000
+      internalID: 231947378539358450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_mountains_far_0: -3452323493188730014
+      bg_mountains_far_1: 5150183803781293459
+      bg_mountains_far_10: -2956795365021651613
+      bg_mountains_far_11: -7064674404888704807
+      bg_mountains_far_12: -2538400437726097586
+      bg_mountains_far_13: -7873419543261542170
+      bg_mountains_far_14: -3243674991215026054
+      bg_mountains_far_15: -3685635269772989746
+      bg_mountains_far_16: -697329046975125064
+      bg_mountains_far_17: -9042301068136392855
+      bg_mountains_far_18: 7658174864051548193
+      bg_mountains_far_19: -4012217437867976184
+      bg_mountains_far_2: -3553627385308391076
+      bg_mountains_far_20: -7876360030371203249
+      bg_mountains_far_21: -3623061492742736130
+      bg_mountains_far_22: -474446836213332994
+      bg_mountains_far_23: 3023679357873443714
+      bg_mountains_far_24: 7464136460678721673
+      bg_mountains_far_25: -1389646747811370964
+      bg_mountains_far_26: 6402712971037245614
+      bg_mountains_far_27: 8122355721113768460
+      bg_mountains_far_28: -2624426145104143261
+      bg_mountains_far_29: -2164383871662164634
+      bg_mountains_far_3: 2519067398633752936
+      bg_mountains_far_30: 7413239040303758255
+      bg_mountains_far_31: 1231732119182985557
+      bg_mountains_far_32: 6412328803439354862
+      bg_mountains_far_33: -82693382546669000
+      bg_mountains_far_34: 6515629076220127295
+      bg_mountains_far_35: 848171016554133385
+      bg_mountains_far_36: 8370379331383714651
+      bg_mountains_far_37: -8062399404758974312
+      bg_mountains_far_38: -5697624235145200637
+      bg_mountains_far_39: -6162575771117855195
+      bg_mountains_far_4: -4727792535157937593
+      bg_mountains_far_40: -4220877824864611730
+      bg_mountains_far_41: 9160426650348878342
+      bg_mountains_far_42: 114147646347359257
+      bg_mountains_far_43: 2036504135177050666
+      bg_mountains_far_44: 1330278886125004458
+      bg_mountains_far_45: -5005235859838209515
+      bg_mountains_far_46: 887937460747958559
+      bg_mountains_far_47: 6427230255018618499
+      bg_mountains_far_48: 2759458501021723167
+      bg_mountains_far_49: 231947378539358450
+      bg_mountains_far_5: -3713759784366347105
+      bg_mountains_far_6: 6285549959599041709
+      bg_mountains_far_7: -466862842891132481
+      bg_mountains_far_8: -307275124279724487
+      bg_mountains_far_9: -145393744053839255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

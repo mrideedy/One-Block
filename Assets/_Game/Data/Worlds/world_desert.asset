@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_desert
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_desert
+  displayName: Desert
+  price: 1000
+  bundleId: 
+  thumbnail: {fileID: 21300000, guid: f1edbc67508a5684e9ca571d33c10929, type: 3}
+  tileTop: {fileID: 21300000, guid: 912ba12fca53f2a48b91d28df1ddba19, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: 1a54b487295784d4c8e9a59841366b52, type: 3}
+  tileTopRight: {fileID: 21300000, guid: 7cf229ae5a997c24ebc54b41bbf99c87, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: 1b7b87f56a64aad4fad63e32a5aaf51f, type: 3}
+  tileFill: {fileID: 21300000, guid: 6ac16ae597b26d64fa6e36823138a3aa, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: d2de1c6124395dd40b61f0a796f4ece5, type: 3}
+  tileFillRight: {fileID: 21300000, guid: 0c858685508538347b8e7aa1d22f18db, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: 1cd29e8138a58834e81c47a06da98477, type: 3}
+  sky: {fileID: 21300000, guid: e74aabd5b0207c04bbffb12886538088, type: 3}
+  mountainsFar: {fileID: 21300000, guid: 43a349a6fdcad1e4fa98cde17284e317, type: 3}
+  mountainsNear: {fileID: 21300000, guid: 5fda8b1c20c41a743a3ddb5b87792368, type: 3}
+  hills: {fileID: 21300000, guid: 9ebe326f53596dc4fa7c0d9ecb927e97, type: 3}
+  hillsFill: {r: 0.7971765, g: 0.6004706, b: 0.35890198, a: 1}
+  cameraBackground: {r: 0.9882353, g: 0.8862745, b: 0.68235296, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: 023dda8ec69908d46ae7eac9b5f3cedd, type: 3}
+  - {fileID: 21300000, guid: 1997e4961cc9f5548b4baec40b8c91ff, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: 5db04e1ff8951ed42b451c75ded1220c, type: 3}
+  - {fileID: 21300000, guid: 84f452d506203ca458bbe2c8a187278d, type: 3}
+  - {fileID: 21300000, guid: d1cdec34afaacca48af4727e0175afc2, type: 3}
+  hazardName: snake pit
+  enemyFrames:
+  - {fileID: 21300000, guid: c49071059ce72e2499ca7c1580f71e4c, type: 3}
+  - {fileID: 21300000, guid: b2b57e6fec6a5bc4e80f1e5bc21f344a, type: 3}
+  enemyStyle: Scorpion
+  trees:
+  - {fileID: 21300000, guid: 08cdc68504713ad43a5f1f47b5bcc5d8, type: 3}
+  - {fileID: 21300000, guid: 44b8deae1cb976f41a954606ef24fa22, type: 3}
+  bush: {fileID: 21300000, guid: 1266e9365c118084ea09bfe50bb5a971, type: 3}
+  tuft: {fileID: 21300000, guid: 8bd73de23ebc7a24cbc92aff10289b17, type: 3}

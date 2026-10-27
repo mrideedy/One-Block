@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_ocean
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_ocean
+  displayName: Deep Ocean
+  price: 0
+  bundleId: bundle_ocean
+  thumbnail: {fileID: 21300000, guid: c1a56a2f77fe35946915669f2e7e8df2, type: 3}
+  tileTop: {fileID: 21300000, guid: 0cd1aac3c5351cc4da0b2878452549f3, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: 1dd1144679b6243418f9a4adb233d472, type: 3}
+  tileTopRight: {fileID: 21300000, guid: e271929b7fdc788438380814b4883bb3, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: d3df5dfd30a5fb549b6e9889a1436b2c, type: 3}
+  tileFill: {fileID: 21300000, guid: a989f36e9de3263479beebb8461340ae, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: 4bea2b9a17a678047a247acde712b884, type: 3}
+  tileFillRight: {fileID: 21300000, guid: 84370e23038c22e4d91e76b576fc322f, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: 094a3294c9b991d4a88dba5a3bca3439, type: 3}
+  sky: {fileID: 21300000, guid: a61a207ecd125874cb9ba33e0702108b, type: 3}
+  mountainsFar: {fileID: 21300000, guid: ea19181dd7f1c444ba2e0389950b854b, type: 3}
+  mountainsNear: {fileID: 21300000, guid: 96135cb59e4ef6043abc5a2f67a5cecc, type: 3}
+  hills: {fileID: 21300000, guid: 20dc15dfb0a19d54bab947532209d634, type: 3}
+  hillsFill: {r: 0.74541175, g: 0.65913725, b: 0.46933335, a: 1}
+  cameraBackground: {r: 0.13333334, g: 0.5882353, b: 0.7490196, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: 58acb0c0b7f7cd248a3d5d5609f35c3f, type: 3}
+  - {fileID: 21300000, guid: 3ffca13f8c5fc274480992a50a54638f, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: 95337dcc0ca9f1f40bf5cfc801b28254, type: 3}
+  - {fileID: 21300000, guid: 252fc0fd04a3ce34497faecb5e44a41f, type: 3}
+  - {fileID: 21300000, guid: fbd932ae3fc58b946b2f0a633c2a0193, type: 3}
+  hazardName: sea urchin
+  enemyFrames:
+  - {fileID: 21300000, guid: 3aabb75677ed6fd44a4c80dd2ac8450d, type: 3}
+  - {fileID: 21300000, guid: e86878871522b624aaedb835282e95be, type: 3}
+  enemyStyle: Crab
+  trees:
+  - {fileID: 21300000, guid: e24a150d41533f04c9a1c424812c787a, type: 3}
+  - {fileID: 21300000, guid: afe311670eddf004d9308d6caeeb1150, type: 3}
+  bush: {fileID: 21300000, guid: 3d7587f1833a0d4438347f1044fdb47e, type: 3}
+  tuft: {fileID: 21300000, guid: a9082f75718d1ad409e633b796196954, type: 3}

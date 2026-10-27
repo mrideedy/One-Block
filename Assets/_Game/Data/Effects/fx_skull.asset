@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532781e33fc377b4ca161291b82062a7, type: 3}
+  m_Name: fx_skull
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.DeathEffect
+  id: fx_skull
+  displayName: Skull
+  price: 500
+  bundleId: 
+  icon: {fileID: 21300000, guid: 773cdf8fc155e284098ea30abc4c19f9, type: 3}
+  style: 2
+  particles:
+  - {fileID: 21300000, guid: 32e4ae7920ff6c441944348d4c3a99c8, type: 3}
+  - {fileID: 21300000, guid: 7cfe95851c5345d48945ba3471453ff3, type: 3}
+  palette:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.7490196, g: 0.7764706, b: 0.8392157, a: 1}

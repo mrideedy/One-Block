@@ -1,0 +1,53 @@
+One Block Privacy Policy
+
+Last updated: September 16, 2026
+
+This policy explains how the mobile game One Block (the "Game"), published by Moonbit Studios ("we", "us"), handles information. We've kept it short because the Game collects very little.
+
+1. Information we collect
+
+We do not collect personal information. The Game has no accounts, sign-in, chat or in-app purchases, and we never ask for your name, email, contacts, photos or location.
+
+Your progress (coins, unlocked items, records, missions and settings) is saved only on your device. We don't receive it, and it's deleted when you uninstall the Game or clear its data.
+
+2. Advertising (Google AdMob)
+
+The Game is free and shows ads through Google AdMob, a service of Google LLC. To serve, measure and limit ads and to prevent fraud, Google's software in the Game may collect and process:
+
+  • Device identifiers such as the Android Advertising ID and App Set ID
+  • IP address, which may be used to estimate your general location
+  • Device and app information (model, OS version, language, app version)
+  • Ad interactions (for example, which ads were shown or tapped) and diagnostic data
+
+This data is handled by Google under the Google Privacy Policy (https://policies.google.com/privacy). You can learn how Google uses data from apps at policies.google.com/technologies/partner-sites.
+
+Your choices:
+
+  • If you're in a region where consent is required (such as the EEA, UK or Switzerland), the Game asks for your consent before ads are personalised. You can change your choice any time from Settings > Privacy in the Game.
+  • You can reset your Advertising ID or opt out of personalised ads in your Android settings (Settings > Google > Ads, or Settings > Privacy > Ads).
+  • Rewarded ads are always optional.
+
+3. Game engine
+
+The Game is built with the Unity engine. Unity Technologies may collect limited anonymous technical information (for example device model, OS version and performance data) to improve its engine, as described in the Unity Game Player Privacy Policy (https://unity.com/legal/game-player-and-app-user-privacy-policy).
+
+4. Children
+
+The Game is intended for users aged 13 and older and is not directed at children under 13. We don't knowingly collect personal information from children. If you believe a child has provided information through the Game, please contact us and we'll help remove it.
+
+5. Data security and retention
+
+Data collected by Google's advertising services is transmitted over encrypted connections and kept according to Google's retention policies. Local save data stays on your device until you delete it.
+
+6. Your rights
+
+Depending on where you live (for example under the GDPR or CCPA), you may have rights to access, delete or object to the processing of your data. Because we don't hold personal data ourselves, requests about advertising data are best made through Google's tools linked above, but we're happy to help: contact us at the address below.
+
+7. Changes to this policy
+
+We may update this policy when the Game changes. The "Last updated" date at the top shows the latest version.
+
+8. Contact
+
+Moonbit Studios
+Email: studiomoonbit@gmail.com

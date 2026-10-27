@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_default
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_default
+  displayName: Default
+  price: 0
+  bundleId: 
+  idle:
+  - {fileID: 21300000, guid: 34d72495081394b4cbdc0a3764907c2b, type: 3}
+  - {fileID: 21300000, guid: 1a94b24a91a522349b8ba0b797215434, type: 3}
+  run:
+  - {fileID: 21300000, guid: 0b31f3f22b8469b489eccabed39e5654, type: 3}
+  - {fileID: 21300000, guid: 13a21501b0d53ab42bf456ce1dc05ab6, type: 3}
+  - {fileID: 21300000, guid: f863bfa94584fc646acfe280d591829d, type: 3}
+  - {fileID: 21300000, guid: e9fea0aa3f25fa747bd62edee039b79b, type: 3}
+  jump: {fileID: 21300000, guid: 42a7fff1eee519242a6be1f9237743aa, type: 3}
+  fall: {fileID: 21300000, guid: c6f26e84b40d41b4c827005c84850510, type: 3}
+  hit: {fileID: 21300000, guid: 93d3f59ab8013584eafe620027f6c564, type: 3}
+  portrait: {fileID: 21300000, guid: 9bbff0c5a9b73ce48a1fe0380053a3bb, type: 3}

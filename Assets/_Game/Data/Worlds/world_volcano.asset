@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f697d3e3580081c48a183ddd8ffe8652, type: 3}
+  m_Name: world_volcano
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.WorldTheme
+  id: world_volcano
+  displayName: Volcano
+  price: 3500
+  bundleId: 
+  thumbnail: {fileID: 21300000, guid: ee4e84bb81bada840b77851f25853eb0, type: 3}
+  tileTop: {fileID: 21300000, guid: 7b4a9547c5af65f42951d3def53cfc38, type: 3}
+  tileTopLeft: {fileID: 21300000, guid: 6a09031fe382ad241ab1537028641164, type: 3}
+  tileTopRight: {fileID: 21300000, guid: 135d06dcd084ec3439e91cc2e6f0e8b8, type: 3}
+  tileTopSingle: {fileID: 21300000, guid: 6e6ff0560a4a578468f02906fa5f0c5c, type: 3}
+  tileFill: {fileID: 21300000, guid: 5a5fae45e2941ae41abdd91f501e7145, type: 3}
+  tileFillLeft: {fileID: 21300000, guid: 89cfd5bb2889a504b8b517920053197e, type: 3}
+  tileFillRight: {fileID: 21300000, guid: 5d54d6097ce7ec94f8152e913b08ba63, type: 3}
+  tileFillSingle: {fileID: 21300000, guid: 7b811eb767eba074d99c19487a10263b, type: 3}
+  sky: {fileID: 21300000, guid: f254e464d9c2aa8448d336d61e3851f0, type: 3}
+  mountainsFar: {fileID: 21300000, guid: f4f688066dc4a2448b3d391637787abb, type: 3}
+  mountainsNear: {fileID: 21300000, guid: 963290e4a09fd6c45bd4e67c8d8f96b8, type: 3}
+  hills: {fileID: 21300000, guid: f1549433e703c4f4d94fe3efa3788975, type: 3}
+  hillsFill: {r: 0.15184315, g: 0.11733334, b: 0.13803922, a: 1}
+  cameraBackground: {r: 0.8784314, g: 0.38039216, b: 0.23921569, a: 1}
+  clouds:
+  - {fileID: 21300000, guid: 85ff7015c9edff446a0bb124abc45f64, type: 3}
+  - {fileID: 21300000, guid: 029bb83de34276e47bf8a9ff5aab9eba, type: 3}
+  hazardFrames:
+  - {fileID: 21300000, guid: 373b3b9f8822d744091b197bc766905e, type: 3}
+  - {fileID: 21300000, guid: ae5b722e8b66b8f4b90cd98fda5e54da, type: 3}
+  - {fileID: 21300000, guid: 63ea13be10ee11b43b8101bb2c53e35a, type: 3}
+  hazardName: lava
+  enemyFrames:
+  - {fileID: 21300000, guid: cda2561d3bf8aa949bd5b0f913d61a4d, type: 3}
+  - {fileID: 21300000, guid: 041f8864dc98d9849b7ed98cce0dbc8b, type: 3}
+  enemyStyle: MagmaBlob
+  trees:
+  - {fileID: 21300000, guid: 76734f5b7d879d64dbd11fdbba95af5a, type: 3}
+  - {fileID: 21300000, guid: e671833bdc36ab048a774ffefa1c1cac, type: 3}
+  bush: {fileID: 21300000, guid: f31f5f8d8e6d58147a6626d1a21a677b, type: 3}
+  tuft: {fileID: 21300000, guid: 8dbe7f5e3027b5a4181c2e7b1782a47f, type: 3}

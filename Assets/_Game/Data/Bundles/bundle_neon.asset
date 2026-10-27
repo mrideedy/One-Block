@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1314ad36ddbafff449115cfd0e2a391d, type: 3}
+  m_Name: bundle_neon
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.Bundle
+  id: bundle_neon
+  displayName: Neon City
+  description: Glow through the city at night with the complete neon set.
+  adsRequired: 20
+  thumbnail: {fileID: 21300000, guid: dabfcc3bb39fb75419473864b4744ec2, type: 3}
+  world: {fileID: 11400000, guid: 6f87e8bcbd644bf44819a1bee28f3891, type: 2}
+  character: {fileID: 11400000, guid: 9af2f8dcc13e1fe4f99ff2714af43011, type: 2}
+  block: {fileID: 11400000, guid: 3ef5dbbcb1c14fc47aef66c2f2591553, type: 2}
+  trail: {fileID: 11400000, guid: 27716ebc46f02b1419403365d2eccd52, type: 2}
+  effect: {fileID: 11400000, guid: d33ffa02bd7958348bdc18846a16b2e5, type: 2}

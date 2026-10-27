@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532781e33fc377b4ca161291b82062a7, type: 3}
+  m_Name: fx_confetti
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.DeathEffect
+  id: fx_confetti
+  displayName: Confetti
+  price: 700
+  bundleId: 
+  icon: {fileID: 21300000, guid: bcfb36f3d9df12e409d23ffed6b2d999, type: 3}
+  style: 3
+  particles:
+  - {fileID: 21300000, guid: 1f3f7c71cedf3cb47ae58501a807ec4d, type: 3}
+  palette:
+  - {r: 1, g: 0.3529412, b: 0.3529412, a: 1}
+  - {r: 1, g: 0.7607843, b: 0.22745098, a: 1}
+  - {r: 0.3647059, g: 0.74509805, b: 0.23529412, a: 1}
+  - {r: 0.18431373, g: 0.5254902, b: 0.9411765, a: 1}
+  - {r: 0.60784316, g: 0.36078432, b: 0.9411765, a: 1}

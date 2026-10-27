@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3356f3c86e83c840846d93ea488f68c, type: 3}
+  m_Name: AudioLibrary
+  m_EditorClassIdentifier: OneBlock::OneBlock.Audio.AudioLibrary
+  tracks:
+  - id: theme
+    title: One Block Theme
+    worldId: 
+    main: {fileID: 8300000, guid: cd474e37a5530044db6e107f408fb661, type: 3}
+    drive: {fileID: 8300000, guid: 0aa05e375bad047448680b671075bf0d, type: 3}
+    keyRoot: 60
+  - id: grassland
+    title: Green Run
+    worldId: world_grassland
+    main: {fileID: 8300000, guid: 5d9ba586b36a956418858db15305a7cb, type: 3}
+    drive: {fileID: 8300000, guid: f3e19267eeda4c340baed774af66ada6, type: 3}
+    keyRoot: 67
+  - id: desert
+    title: Sand Serpent
+    worldId: world_desert
+    main: {fileID: 8300000, guid: a70a9cd1a3c843d42a4b724ffff2895c, type: 3}
+    drive: {fileID: 8300000, guid: d7d2ebe890456f94c92a0e31c953dcc3, type: 3}
+    keyRoot: 62
+  - id: snow
+    title: Frostbite Glide
+    worldId: world_snow
+    main: {fileID: 8300000, guid: c7cd384975c9b3243865356dbaefc959, type: 3}
+    drive: {fileID: 8300000, guid: f82647778eb54414991a0842a7764bac, type: 3}
+    keyRoot: 69
+  - id: volcano
+    title: Magma Rush
+    worldId: world_volcano
+    main: {fileID: 8300000, guid: 4754513caf9bbcb40b4d530c4efcc748, type: 3}
+    drive: {fileID: 8300000, guid: c89d0d6ed3939c340823ac0e52b5610f, type: 3}
+    keyRoot: 64
+  - id: space
+    title: Orbit Hop
+    worldId: world_space
+    main: {fileID: 8300000, guid: f9af37a33b4791e4faab106e9d232e33, type: 3}
+    drive: {fileID: 8300000, guid: 3bf0505a29acada46904f51ba2ac9d4f, type: 3}
+    keyRoot: 62
+  - id: candy
+    title: Sugar Rush
+    worldId: world_candy
+    main: {fileID: 8300000, guid: 556567ab7db181541bfe12d12622ba89, type: 3}
+    drive: {fileID: 8300000, guid: b9263c71bec5a0d4191193dd0a1192bb, type: 3}
+    keyRoot: 65
+  - id: ocean
+    title: Tide Diver
+    worldId: world_ocean
+    main: {fileID: 8300000, guid: 53959c94439cd4840bc619782eac9577, type: 3}
+    drive: {fileID: 8300000, guid: f5e96771cfc3dff40b5bdee20d38fa35, type: 3}
+    keyRoot: 63
+  - id: neon
+    title: Neon Nights
+    worldId: world_neon
+    main: {fileID: 8300000, guid: eefaefa9a4ec6934fa6e37a85f0d99bc, type: 3}
+    drive: {fileID: 8300000, guid: 510ae8de0d23c8142a7a1665ba782819, type: 3}
+    keyRoot: 60
+  sfx:
+  - {fileID: 8300000, guid: baf0c7b7671e0584a930a43913bed8af, type: 3}
+  - {fileID: 8300000, guid: 99e5bbf68518d4746b038d4d8f40230b, type: 3}
+  - {fileID: 8300000, guid: d4f53c6144ec6a746a2c0d64ce1a9e73, type: 3}
+  - {fileID: 8300000, guid: 1739975c90fea8946b40cf7eb29e2347, type: 3}
+  - {fileID: 8300000, guid: 5980d4fd4f0074d49b756857354b7dd6, type: 3}
+  - {fileID: 8300000, guid: 2c6fce208792dfa4c8e5506fbf7ab71c, type: 3}
+  - {fileID: 8300000, guid: 3eedffb1859929e4d80b506bd9956269, type: 3}
+  - {fileID: 8300000, guid: 03bedaf4ca6367a4e8a735287db655e2, type: 3}
+  - {fileID: 8300000, guid: 0d746e0af6941b04194436b15709fa83, type: 3}
+  - {fileID: 8300000, guid: 1a8c0d09067c518439a09f5c3b97cb73, type: 3}
+  - {fileID: 8300000, guid: cc3fd48715580884e800990b2622b623, type: 3}
+  - {fileID: 8300000, guid: ce58d180f68b3e0469ba475f63f81f03, type: 3}
+  - {fileID: 8300000, guid: b3e8c6b0204740840873be212280d310, type: 3}
+  - {fileID: 8300000, guid: 2fe7251a0b45fa140a4a96c2d07934e2, type: 3}
+  - {fileID: 8300000, guid: d3c350bef2faf2f498ea338f3da3ea2d, type: 3}
+  - {fileID: 8300000, guid: 20e6e49186adf174c9ba420df02e3df6, type: 3}
+  - {fileID: 8300000, guid: ef7425ff8176dba499293c6c64335d37, type: 3}
+  - {fileID: 8300000, guid: 7f8b7c535db620e45965f3bb650ea354, type: 3}
+  - {fileID: 8300000, guid: e566ffb7b1e80d4408d7a51afd010e28, type: 3}
+  - {fileID: 8300000, guid: e95ca556cccaa414295a0d211a4e1ab0, type: 3}
+  - {fileID: 8300000, guid: f4f626625a4468c42ae34d321b7b9d32, type: 3}
+  - {fileID: 8300000, guid: 3d3c968e226709f40afd1128849aea46, type: 3}
+  - {fileID: 8300000, guid: b375ae3fce0c8a14d81222b01b777da2, type: 3}
+  - {fileID: 8300000, guid: 35b3ca5c3b292c54ba73467a6bd294e2, type: 3}
+  - {fileID: 8300000, guid: 7934b5feb13653d4e86d7f71f85dde51, type: 3}
+  - {fileID: 8300000, guid: f60dde00a1307f54eb32b605ce63eab5, type: 3}
+  - {fileID: 8300000, guid: 6de118e7728c8b646b3984276131a1f9, type: 3}
+  - {fileID: 8300000, guid: 472fd6e526bdb574ca5a65bd42a5667a, type: 3}
+  - {fileID: 8300000, guid: 9ebe68d7f11faed45ae2594ec09bbac3, type: 3}
+  - {fileID: 8300000, guid: b316c8530b886fe46bf4b77c65f5876c, type: 3}
+  - {fileID: 8300000, guid: 01da1eab90cbad443bb4467dc5e35360, type: 3}
+  - {fileID: 8300000, guid: f233305f384bdc845816dc284db6a1e1, type: 3}
+  - {fileID: 8300000, guid: 65d32aa23eb59894697112ed2c7f2df8, type: 3}
+  - {fileID: 8300000, guid: cbf2013f8d9f61e469d551d0192df3dc, type: 3}
+  - {fileID: 8300000, guid: b46ed6e4325f12644aae2c95fe803c9e, type: 3}
+  - {fileID: 8300000, guid: 22e67426e980948408ce87dda7c7b891, type: 3}
+  - {fileID: 8300000, guid: 8656206689f8e894c96e7b554f2bda5b, type: 3}
+  - {fileID: 8300000, guid: 03ae19c4a5ba02642bc5965e15aae492, type: 3}
+  - {fileID: 8300000, guid: a3ebd18ec3d3a534e9a220724aaa88ac, type: 3}
+  - {fileID: 8300000, guid: af2af40915a4b3e4a837cd79920303c1, type: 3}
+  - {fileID: 8300000, guid: 1adc129170b6414459bdb567f8a72113, type: 3}
+  - {fileID: 8300000, guid: b4116bb620cd2804498150a38be8219e, type: 3}
+  - {fileID: 8300000, guid: bcc0fef42857662468bd26c0d6410618, type: 3}
+  - {fileID: 8300000, guid: a4ba296dce5b95e43b4f8a19887325a9, type: 3}
+  - {fileID: 8300000, guid: 3b2c5145ef22ac24ab1a8764e4b12d5a, type: 3}
+  - {fileID: 8300000, guid: a95cd03ebdada65498b91becf0664514, type: 3}
+  - {fileID: 8300000, guid: e2c7775239649584786714f373ae5bfa, type: 3}
+  - {fileID: 8300000, guid: 8c1a8c252c5be774baedba0beafd9d17, type: 3}
+  - {fileID: 8300000, guid: b7dc0a7b726e6114899a15c65d047494, type: 3}
+  - {fileID: 8300000, guid: b5992cbd8cee6f04b933f476c63c5781, type: 3}
+  - {fileID: 8300000, guid: 86b96b09336c92a419ebdad157e25c37, type: 3}
+  - {fileID: 8300000, guid: 29ff18bbfd6ab984cbdcf338a84326d1, type: 3}
+  - {fileID: 8300000, guid: aeec0998944da47408f708b0908674c5, type: 3}
+  - {fileID: 8300000, guid: 26292e3533ef7f04883b24c6c9070cd6, type: 3}
+  - {fileID: 8300000, guid: 0026e3fbe9ad2fa4d8818e29a4e11dbb, type: 3}

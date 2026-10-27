@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_cyber
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_cyber
+  displayName: Cyber Ninja
+  price: 0
+  bundleId: bundle_neon
+  idle:
+  - {fileID: 21300000, guid: 95ad799a60b9ab5489c2733ada26bfe5, type: 3}
+  - {fileID: 21300000, guid: c305cb619951c28498ef96c09e01e06e, type: 3}
+  run:
+  - {fileID: 21300000, guid: b1bf3d6223073334c81a3bf03bc9a4f5, type: 3}
+  - {fileID: 21300000, guid: 395912b2f7217d24fa4c1ba3d3c47944, type: 3}
+  - {fileID: 21300000, guid: 135e4a18d29f0174abe840df1e146a07, type: 3}
+  - {fileID: 21300000, guid: 694ba3d0060f61648878fbc56e632f81, type: 3}
+  jump: {fileID: 21300000, guid: 39bf8b0a93213ae4eb5f5b55ba1a0f94, type: 3}
+  fall: {fileID: 21300000, guid: 92e8973605efbbd40a26c893d884c523, type: 3}
+  hit: {fileID: 21300000, guid: d9b78815cf86d72448a4d8a77ebf8b61, type: 3}
+  portrait: {fileID: 21300000, guid: 527362298024d0248a40be8f914aaf76, type: 3}

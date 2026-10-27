@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ef9b7678b2b0346aee8964158df1db, type: 3}
+  m_Name: char_robot
+  m_EditorClassIdentifier: OneBlock::OneBlock.Data.CharacterSkin
+  id: char_robot
+  displayName: Robot
+  price: 1000
+  bundleId: 
+  idle:
+  - {fileID: 21300000, guid: a6bcd11ad1e67094087ac279d0a31f42, type: 3}
+  - {fileID: 21300000, guid: d48b9f47affc3c846b2282688ed66e10, type: 3}
+  run:
+  - {fileID: 21300000, guid: 80c127f88a5202541b870502447cc7a0, type: 3}
+  - {fileID: 21300000, guid: d3bad0e62402f2f4bbacf52c4682086f, type: 3}
+  - {fileID: 21300000, guid: 965cb80361db9254e85deea32acbcca1, type: 3}
+  - {fileID: 21300000, guid: f4353d6026ed6574da83e5ccc29f1a1a, type: 3}
+  jump: {fileID: 21300000, guid: bdfa8d276d0e41647aaf2cc6937d549a, type: 3}
+  fall: {fileID: 21300000, guid: 24148e41b0a6f1a4da52d7f3d3875cbf, type: 3}
+  hit: {fileID: 21300000, guid: 12254fcc809696a49a4587477e3887bf, type: 3}
+  portrait: {fileID: 21300000, guid: e2f47c9e55d2ef94baf021160ecfc095, type: 3}
